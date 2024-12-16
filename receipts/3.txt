@@ -1,0 +1,18 @@
+Company Name: S.M.S pvt ltd
+Address: U.P,India
+--------------------------------------------------------
+ Employee ID		:  3
+ Salary of		:  02-2023
+ Generated on		:  18-02-2023
+--------------------------------------------------------
+ Total Days		:  28
+ Total Present		:  23
+ Total Absent		:  5
+ Conveyance		:  Rs.1000
+ Medical		:  Rs.2000
+ PF		:  Rs.1000
+ Gross Payment		:  Rs45000
+ Net Salary		: Rs.34964.29
+-------------------------------------------------------
+This is Computer Generated slip,	Signature not required
+
